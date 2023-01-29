@@ -1,2 +1,2 @@
-# linux
-all things linux
+# Linux | Unix
+All things Linux
